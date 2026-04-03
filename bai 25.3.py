@@ -1,0 +1,12 @@
+a='phananh0304'
+b=a.strip('p')
+c=a.count('p',0,6)
+print(c)
+d=a.capitalize ()
+print(d)
+e=a.replace('0304','phananh')
+print(e)
+f=a.isalnum()
+print(f)
+g=a.isdigit()
+print(g)

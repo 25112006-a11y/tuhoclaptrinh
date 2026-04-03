@@ -1,5 +1,5 @@
 def dau_tu(doanhthu,chiphi):
-     roi=(doanhthu-chiphi)/chiphi
+    roi=(doanhthu-chiphi)/chiphi
     if roi>=0.75:
         print ('nen dau tu')
     else :
